@@ -1,5 +1,5 @@
 - 👋 Hey it's, @lets-code-with-meh
-- 👀 I’m interested in  coding with .cpp
+- 👀 Obsessed with .cpp
 - 🌱 I’m currently learning dsa ...
 - 💞️ I’m looking to collaborate on ml algorithms and dsa...
 - 😄 Pronouns: She/Her
